@@ -10,7 +10,7 @@ for(var i=1;i<=180;i++){
 document.querySelector("#pbtm").innerHTML=clutter;
 }
 
-var timer=10;
+var timer=20;
 
 function runTimer(){
     var samay=setInterval(function(){
